@@ -1,0 +1,27 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32",
+    "idf.customExtraPaths": "C:\\Users\\26097970\\Espressif\\tools\\xtensa-esp-elf-gdb\\11.2_20220823\\xtensa-esp-elf-gdb\\bin;C:\\Users\\26097970\\Espressif\\tools\\riscv32-esp-elf-gdb\\11.2_20220823\\riscv32-esp-elf-gdb\\bin;C:\\Users\\26097970\\Espressif\\tools\\xtensa-esp32-elf\\esp-2022r1-11.2.0\\xtensa-esp32-elf\\bin;C:\\Users\\26097970\\Espressif\\tools\\xtensa-esp32s2-elf\\esp-2022r1-11.2.0\\xtensa-esp32s2-elf\\bin;C:\\Users\\26097970\\Espressif\\tools\\xtensa-esp32s3-elf\\esp-2022r1-11.2.0\\xtensa-esp32s3-elf\\bin;C:\\Users\\26097970\\Espressif\\tools\\riscv32-esp-elf\\esp-2022r1-11.2.0\\riscv32-esp-elf\\bin;C:\\Users\\26097970\\Espressif\\tools\\esp32ulp-elf\\2.35_20220830\\esp32ulp-elf\\bin;C:\\Users\\26097970\\Espressif\\tools\\cmake\\3.24.0\\bin;C:\\Users\\26097970\\Espressif\\tools\\openocd-esp32\\v0.11.0-esp32-20221026\\openocd-esp32\\bin;C:\\Users\\26097970\\Espressif\\tools\\ninja\\1.10.2;C:\\Users\\26097970\\Espressif\\tools\\idf-exe\\1.0.3;C:\\Users\\26097970\\Espressif\\tools\\ccache\\4.6.2\\ccache-4.6.2-windows-x86_64;C:\\Users\\26097970\\Espressif\\tools\\dfu-util\\0.9\\dfu-util-0.9-win64",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "C:\\Users\\26097970\\Espressif\\tools\\openocd-esp32\\v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts",
+        "IDF_CCACHE_ENABLE": "1"
+    },
+    "idf.espIdfPathWin": "C:\\Users\\26097970\\esp\\v5.0\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM10",
+    "idf.pythonBinPathWin": "C:\\Users\\26097970\\Espressif\\python_env\\idf5.0_py3.11_env\\Scripts\\python.exe",
+    "idf.toolsPathWin": "C:\\Users\\26097970\\Espressif",
+    "idf.flashType": "UART",
+    "files.associations": {
+        "dns.h": "c",
+        "esp_wifi.h": "c",
+        "esp_event.h": "c",
+        "freertos.h": "c",
+        "esp_system.h": "c",
+        "esp_http_client.h": "c",
+        "event_groups.h": "c"
+    },
+    "idf.gitPathWin": "C:\\Users\\26097970\\Espressif\\tools\\idf-git\\2.39.2\\cmd\\git.exe"
+}
